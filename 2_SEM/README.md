@@ -17,7 +17,7 @@ Best => [Intro to Computing - Absolute Beginner](https://youtube.com/playlist?li
 
 Digital Logic Design
 
-- [ ] 1. [LD by David Black-Schaffer](https://youtube.com/playlist?list=PLiwt1iVUib9vXV5xqD_QCTU5SVMjDN5U_&si=yRsPd-gRwhjdE1Ph)
+- [x] 1. [LD by David Black-Schaffer](https://youtube.com/playlist?list=PLiwt1iVUib9vXV5xqD_QCTU5SVMjDN5U_&si=yRsPd-gRwhjdE1Ph)
 - [ ] 2. [DL by Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe&si=9DwYBD3pCT7jU83H)
 - [ ] 3. [DLD by Fakhar STEM Sphere VU](https://youtube.com/playlist?list=PLgWOIdHQBEz6Ougd453k22nyPDNoNw_tX&si=WhoAEBtfkuJNno7x)
 - [ ] 4. [DL by Jack Buffington](https://youtube.com/playlist?list=PLyG2VxFPjWqDDbo1FKEvzMvj33fI22weJ&si=z7k0BWWYhrDj-peE)
