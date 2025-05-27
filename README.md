@@ -8,24 +8,24 @@ Virtual University Of Pakistan
 
 |S.No|Passed|Subject Code|Name|
 |----|------|------------|----|
-|1| <ul><li>[x]</li></ul> |CS101|Introduction to Computing|
-|2| <ul><li>[x]</li></ul> |ENG101|English|
-|3| <ul><li>[x]</li></ul> |ISL202|Islamic Studies|
-|4| <ul><li>[x]test1</li></ul> |MTH100|General Mathematics (Deficiency)|
-|5| <ul><li>[x] test2</li></ul> |MTH101|Calculus And Analytical Geometry|
+|1| <ul><li>[x] </li></ul> |CS101|Introduction to Computing|
+|2| <ul><li>[x] </li></ul> |ENG101|English|
+|3| <ul><li>[x] </li></ul> |ISL202|Islamic Studies|
+|4| <ul><li>[x] </li></ul> |MTH100|General Mathematics (Deficiency)|
+|5| <ul><li>[x] </li></ul> |MTH101|Calculus And Analytical Geometry|
 |6| <ul><li>[x] </li></ul> |PAK301|Pakistan Studies|
-|7| <ul><li>[ ] g</li></ul> |PHY301|(Elective) Physics / Circuit Theory (Pending)|
+|7| <ul><li>[ ] </li></ul> |PHY301|(Elective) Physics / Circuit Theory (Pending)|
 
 ## Semester 2 (Fall 2024)
 
 |S.No|Passed|Subject Code|Name|
 |----|------|------------|----|
-|1| <ul><li>[x]</li></ul> |CS201|Introduction to Programming|
+|1| <ul><li>[x] </li></ul> |CS201|Introduction to Programming|
 |3| <ul><li>[ ]</li></ul> |CS302|Digital Logic Design (Failed)|
-|7| <ul><li>[x]</li></ul> |ENG201|Business and Technical English Writing|
+|7| <ul><li>[x] </li></ul> |ENG201|Business and Technical English Writing|
 |9| <ul><li>[ ]</li></ul> |MTH301|Calculus II|
-|5| <ul><li>[x]</li></ul> |MGT211| (Elective) Intro To Business / Economics|
-|8| <ul><li>[x]</li></ul> |MTH104|Sets and Logic (Deficiency)|
+|5| <ul><li>[x] </li></ul> |MGT211| (Elective) Intro To Business / Economics|
+|8| <ul><li>[x] </li></ul> |MTH104|Sets and Logic (Deficiency)|
 
 ## Semester 3 (Spring 2025)
 
@@ -34,7 +34,7 @@ Virtual University Of Pakistan
 |1| <ul><li>[ ]</li></ul> |CS304|Object Oriented Programming|
 |3| <ul><li>[ ]</li></ul> |CS403|Database Management Systems|
 |5| <ul><li>[ ]</li></ul> |CS601|Data Communication|
-|6| <ul><li>[x]</li></ul> |MGT503|(Elective) Principles of Marketing/Management|
+|6| <ul><li>[x] </li></ul> |MGT503|(Elective) Principles of Marketing/Management|
 |8| <ul><li>[ ]</li></ul> |MTH202|Discrete Mathematics|
 
 ## Semester 4 (Fall 2026)
