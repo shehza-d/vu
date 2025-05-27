@@ -13,8 +13,8 @@ Virtual University Of Pakistan
 |3| <ul><li>[x]</li></ul> |ISL202|Islamic Studies|
 |4| <ul><li>[x]test1</li></ul> |MTH100|General Mathematics (Deficiency)|
 |5| <ul><li>[x] test2</li></ul> |MTH101|Calculus And Analytical Geometry|
-|6| <ul><li>[x]</li></ul> |PAK301|Pakistan Studies|
-|7| <ul><li>[ ]</li></ul> |PHY301|(Elective) Physics / Circuit Theory (Pending)|
+|6| <ul><li>[x] </li></ul> |PAK301|Pakistan Studies|
+|7| <ul><li>[ ] g</li></ul> |PHY301|(Elective) Physics / Circuit Theory (Pending)|
 
 ## Semester 2 (Fall 2024)
 
