@@ -9,4 +9,3 @@
 | CS302  | Digital Logic Design                    | 34.29 | 0    | F     |
 | MTH104 | Sets and Logic Deficiency               | 51.10 | 1.10 | D     |
 | MTH100 | General Mathematics (repeat)            | 65.24 | 2.40 | C     |
-| CS302P | Digital Logic Design (Practical)        |       |      |       |

@@ -1,6 +1,11 @@
-# 2nd semester
+# 3rd semester (Spring 2025)
 
-|       | Subjects                                             |
-| ----- | ---------------------------------------------------- |
-| CS201 | [Introduction to Programming](https://youtube.com)   |
-| CS302 | [Digital Logic Design](https://youtube.com/playlist) |
+## Results
+
+|        | Subjects                           | %   | GPA | Grade |
+| ------ | ---------------------------------- | --- | --- | ----- |
+| MGT503 | Principles of Management           | -   | -   | -     |
+| PHY301 | Physics / Circuit Theory (Pending) | -   | -   | -     |
+| CS302  | Digital Logic Design               | -   | -   | -     |
+| CS403  | Database Management Systems        | -   | -   | -     |
+| CS304  | Object Oriented Programming        | -   | -   | -     |
