@@ -9,3 +9,5 @@
 | CS302  | Digital Logic Design               | -   | -   | -     |
 | CS403  | Database Management Systems        | -   | -   | -     |
 | CS304  | Object Oriented Programming        | -   | -   | -     |
+
+[MGT503 MCQs](https://youtu.be/eoDX_nw_Krg?si=TatTNCWaGM9vj5oL)
