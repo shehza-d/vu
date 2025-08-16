@@ -14,5 +14,6 @@ CS304 OOP
 
 - [OOP complete course](https://youtube.com/playlist?list=PLnd7R4Mcw3rJicg4QtoI8gFkoefyCLvEq&si=4pmTZGH9CEd0XeaF)
 - [STL](https://youtu.be/RRVYpIET_RU?si=ay_i1_IzVpICYb0f)
+- [Exception Handling In C++](https://youtube.com/playlist?list=PLk6CEY9XxSIA0797MGwGKWpKtONUurYIF&si=Wmh0myhs_7NADx0F) (try/catch)
 
 [MGT503 MCQs](https://youtu.be/eoDX_nw_Krg?si=TatTNCWaGM9vj5oL)
