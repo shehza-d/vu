@@ -14,7 +14,7 @@ Virtual University Of Pakistan
 | 4    | <ul><li>[x] </li></ul> | MTH100       | General Mathematics (Deficiency)              |
 | 5    | <ul><li>[x] </li></ul> | MTH101       | Calculus And Analytical Geometry              |
 | 6    | <ul><li>[x] </li></ul> | PAK301       | Pakistan Studies                              |
-| 7    | <ul><li>[ ] </li></ul> | PHY301       | (Elective) Physics / Circuit Theory (Pending) |
+| 7    | <ul><li>[x] </li></ul> | PHY301       | (Elective) Physics / Circuit Theory (Pending) |
 
 ## Semester 2 (Fall 2024)
 
@@ -31,8 +31,8 @@ Virtual University Of Pakistan
 
 | S.No | Passed                 | Subject Code | Name                                          |
 | ---- | ---------------------- | ------------ | --------------------------------------------- |
-| 1    | <ul><li>[ ] </li></ul> | CS304        | Object Oriented Programming                   |
-| 3    | <ul><li>[ ] </li></ul> | CS403        | Database Management Systems                   |
+| 1    | <ul><li>[x] </li></ul> | CS304        | Object Oriented Programming                   |
+| 3    | <ul><li>[x] </li></ul> | CS403        | Database Management Systems                   |
 | 5    | <ul><li>[ ] </li></ul> | CS601        | Data Communication                            |
 | 6    | <ul><li>[x] </li></ul> | MGT503       | (Elective) Principles of Marketing/Management |
 | 8    | <ul><li>[ ] </li></ul> | MTH202       | Discrete Mathematics                          |
