@@ -8,7 +8,7 @@
 | ENG101       | English Comprehension          | ✅ Passed        | B+    | 78.03 |
 | MTH101       | Calculus & Analytical Geometry | 🔁 Can Improve   | D     | 51.10 |
 | MTH202       | Discrete Mathematics           | ⏳ Not Attempted | —     | —     |
-| PHY101       | Physics                        | ⏳ Not Attempted | —     | —     |
+| PHY301       | Physics (Circuit Theory)       | ⚠️ Passed        | D     | 54.40 |
 | MTH100       | General Mathematics            | ⚠️ Passed        | C     | 65.24 |
 | PAK301       | Pakistan Studies               | ✅ Passed        | B     | 72.57 |
 | VU001        | Introduction to e-Learning     | ✅ Completed     | —     | —     |
