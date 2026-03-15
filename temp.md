@@ -1,7 +1,7 @@
 # Social rules and etiquettes mentioned in Surah al-Hujurat (Verses 1 to 12).
 
 GDB
-Question Title	Social etiquettes mentioned in Surah al-Hujurat
+Question Title Social etiquettes mentioned in Surah al-Hujurat
 Islamic Studies (ISL202)
 SEMESTER SPRING 2024
 
