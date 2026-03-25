@@ -12,6 +12,7 @@
 
 - [VU](https://youtube.com/playlist?list=PLKyB9RYzaFRh9pYhDsTGXnDqRx0YZQFbn&si=du1BXyuBa-s1XS7-)
 - [recluze](https://youtube.com/playlist?list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O&si=cKn-4d9-Cl4xPnh8)
+    - [syscall table](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 
 ## CS504 – Software Engineering
 
