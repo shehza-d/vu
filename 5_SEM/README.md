@@ -16,8 +16,9 @@
 
 ## CS504 – Software Engineering
 
-<!-- - [KST](https://youtube.com/playlist?list=PL1EXAGJzUWByPWei7Z0cPxrwsCYlLGYNz&si=XkMqB8EqqkJOHmiZ) -->
+
 - [VU](https://youtube.com/playlist?list=PL6884F109FAD10203&si=yHksGoFCCpNXzryE)
+    - [KST](https://youtube.com/playlist?list=PL1EXAGJzUWByPWei7Z0cPxrwsCYlLGYNz&si=XkMqB8EqqkJOHmiZ) (Mujhe ye KST samaj nhi aaya)
 
 ## MGT501 – HR Management
 
