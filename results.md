@@ -51,7 +51,7 @@
 | CS401        | Computer Architecture & Assembly | ⏳ Not Attempted | —     | —     |
 | CS403        | Database Management Systems      | ✅ Passed        | A-    | 82.05 |
 | CS403P       | DBMS Practical                   | ✅ Passed        | A     | 85.50 |
-| CS504        | Software Engineering I           | ⏳ Not Attempted | —     | —     |
+| CS504        | Software Engineering I           | 🔁 Can Improve   | —     | —     |
 | MGT602       | Entrepreneurship                 | ⏳ Not Attempted | —     | —     |
 | MTH501       | Linear Algebra                   | ⏳ Not Attempted | —     | —     |
 | CS525        | Professional Practices           | ⏳ Not Attempted | —     | —     |
