@@ -17,16 +17,16 @@
 
 ## 📘 Semester 2
 
-| Subject Code | Name                             | Status                      | Grade        | %     |
-| ------------ | -------------------------------- | --------------------------- | ------------ | ----- |
-| CS201        | Introduction to Programming      | ✅ Passed                   | B+           | 76.06 |
-| CS201P       | Intro to Programming (Practical) | ✅ Passed                   | A            | 85.00 |
-| CS302        | Digital Logic Design             | 🔁 Retaken (Result Awaited) | F → Retake 3 | 34.29 |
-| CS302P       | Digital Logic Practical          | ⏳ Result Awaited           | —            | —     |
-| ENG201       | Business & Technical English     | ✅ Passed                   | A            | 85.38 |
-| STA301       | Statistics & Probability         | ⏳ Not Attempted            | —            | —     |
-| MTH104       | Sets & Logic                     | 🔁 Can Improve              | D            | 51.10 |
-| ISL202       | Islamic Studies                  | ✅ Passed                   | B+           | 76.06 |
+| Subject Code | Name                             | Status               | Grade | %     |
+| ------------ | -------------------------------- | -------------------- | ----- | ----- |
+| CS201        | Introduction to Programming      | ✅ Passed            | B+    | 76.06 |
+| CS201P       | Intro to Programming (Practical) | ✅ Passed            | A     | 85.00 |
+| CS302        | Digital Logic Design             | 🔁 Retaken→ Retake 3 | D     | 54.40 |
+| CS302P       | Digital Logic Practical          | 🔁 Retaken           | D     | 52.20 |
+| ENG201       | Business & Technical English     | ✅ Passed            | A     | 85.38 |
+| STA301       | Statistics & Probability         | ⏳ Not Attempted     | —     | —     |
+| MTH104       | Sets & Logic                     | 🔁 Can Improve       | D     | 51.10 |
+| ISL202       | Islamic Studies                  | ✅ Passed            | B+    | 76.06 |
 
 ---
 
@@ -34,40 +34,41 @@
 
 | Subject Code | Name                        | Status            | Grade | %     |
 | ------------ | --------------------------- | ----------------- | ----- | ----- |
-| CS301        | Data Structures             | ⏳ Not Attempted  | —     | —     |
-| CS301P       | Data Structures (Practical) | ⏳ Not Attempted  | —     | —     |
+| CS301        | Data Structures             | ⏳ Result Awaited | —     | —     |
+| CS301P       | Data Structures (Practical) | ⏳ Result Awaited | —     | —     |
 | CS304        | Object Oriented Programming | ✅ Passed         | A     | 85.00 |
-| CS304P       | OOP Practical               | ⏳ Result Awaited | —     | —     |
-| CS601        | Data Communication          | ⏳ Result Awaited | —     | —     |
-| MCM301       | Communication Skills        | ⏳ Result Awaited | —     | —     |
+| CS304P       | OOP Practical               | ✅ Passed         | B     | 71.00 |
+| CS601        | Data Communication          | 🔁 Can Improve    | C     | 61.74 |
+| MCM301       | Communication Skills        | ✅ Passed         | B+    | 76.06 |
 | MTH401       | Differential Equations      | ⏳ Not Attempted  | —     | —     |
 
 ---
 
 ## 📘 Semester 4
 
-| Subject Code | Name                             | Status           | Grade | %     |
-| ------------ | -------------------------------- | ---------------- | ----- | ----- |
-| CS401        | Computer Architecture & Assembly | ⏳ Not Attempted | —     | —     |
-| CS403        | Database Management Systems      | ✅ Passed        | A-    | 82.05 |
-| CS403P       | DBMS Practical                   | ✅ Passed        | A     | 85.50 |
-| CS504        | Software Engineering I           | 🔁 Can Improve   | —     | —     |
-| MGT602       | Entrepreneurship                 | ⏳ Not Attempted | —     | —     |
-| MTH501       | Linear Algebra                   | ⏳ Not Attempted | —     | —     |
-| CS525        | Professional Practices           | ⏳ Not Attempted | —     | —     |
+| Subject Code | Name                             | Status            | Grade | %     |
+| ------------ | -------------------------------- | ----------------- | ----- | ----- |
+| CS401        | Computer Architecture & Assembly | ⏳ Result Awaited | —     | —     |
+| CS403        | Database Management Systems      | ✅ Passed         | A-    | 82.05 |
+| CS403P       | DBMS Practical                   | ✅ Passed         | A     | 85.50 |
+| CS504        | Software Engineering I           | 🔁 Can Improve    | —     | —     |
+| MGT602       | Entrepreneurship                 | ⏳ Not Attempted  | —     | —     |
+| MTH501       | Linear Algebra                   | ⏳ Not Attempted  | —     | —     |
+| CS525        | Professional Practices           | ⏳ Not Attempted  | —     | —     |
 
 ---
 
 ## 📘 Semester 5
 
-| Subject Code | Name                          | Status           | Grade | %   |
-| ------------ | ----------------------------- | ---------------- | ----- | --- |
-| CS306        | Introduction to Python        | ⏳ Not Attempted | —     | —   |
-| CS402        | Theory of Automata            | ⏳ Not Attempted | —     | —   |
-| CS502        | Fundamentals of Algorithms    | ⏳ Not Attempted | —     | —   |
-| CS604        | Operating Systems             | ⏳ Not Attempted | —     | —   |
-| CSI619       | Internship / Field Experience | ⏳ Not Attempted | —     | —   |
-| MTH603       | Numerical Analysis            | ⏳ Not Attempted | —     | —   |
+| Subject Code | Name                          | Status            | Grade | %   |
+| ------------ | ----------------------------- | ----------------- | ----- | --- |
+| CS306        | Introduction to Python        | ⏳ Not Attempted  | —     | —   |
+| CS402        | Theory of Automata            | ⏳ Not Attempted  | —     | —   |
+| CS502        | Fundamentals of Algorithms    | ⏳ Not Attempted  | —     | —   |
+| CS604        | Operating Systems             | ⏳ Not Attempted  | —     | —   |
+| CSI619       | Internship / Field Experience | ⏳ Not Attempted  | —     | —   |
+| MTH603       | Numerical Analysis            | ⏳ Not Attempted  | —     | —   |
+| MGT501       | Human Resource Management     | ⏳ Result Awaited | —     | —   |
 
 ---
 
