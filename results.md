@@ -34,8 +34,8 @@
 
 | Subject Code | Name                        | Status            | Grade | %     |
 | ------------ | --------------------------- | ----------------- | ----- | ----- |
-| CS301        | Data Structures             | ⏳ Result Awaited | —     | —     |
-| CS301P       | Data Structures (Practical) | ⏳ Result Awaited | —     | —     |
+| CS301        | Data Structures             | ✅ Passed         | B+    | 78.03 |
+| CS301P       | Data Structures (Practical) | ✅ Passed         | B-    | 69.23 |
 | CS304        | Object Oriented Programming | ✅ Passed         | A     | 85.00 |
 | CS304P       | OOP Practical               | ✅ Passed         | B     | 71.00 |
 | CS601        | Data Communication          | 🔁 Can Improve    | C     | 61.74 |
@@ -48,10 +48,11 @@
 
 | Subject Code | Name                             | Status            | Grade | %     |
 | ------------ | -------------------------------- | ----------------- | ----- | ----- |
-| CS401        | Computer Architecture & Assembly | ⏳ Result Awaited | —     | —     |
+| CS401        | Computer Architecture & Assembly | 🔁 Can Improve   | D     | 59.90 |
+| CS401P       | Computer Architecture Practical  | ✅ Passed         | B-    | 68.08 |
 | CS403        | Database Management Systems      | ✅ Passed         | A-    | 82.05 |
 | CS403P       | DBMS Practical                   | ✅ Passed         | A     | 85.50 |
-| CS504        | Software Engineering I           | 🔁 Can Improve    | —     | —     |
+| CS504        | Software Engineering I           | ✅ Passed         | B     | 71.84 |
 | MGT602       | Entrepreneurship                 | ⏳ Not Attempted  | —     | —     |
 | MTH501       | Linear Algebra                   | ⏳ Not Attempted  | —     | —     |
 | CS525        | Professional Practices           | ⏳ Not Attempted  | —     | —     |
@@ -68,7 +69,7 @@
 | CS604        | Operating Systems             | ⏳ Not Attempted  | —     | —   |
 | CSI619       | Internship / Field Experience | ⏳ Not Attempted  | —     | —   |
 | MTH603       | Numerical Analysis            | ⏳ Not Attempted  | —     | —   |
-| MGT501       | Human Resource Management     | ⏳ Result Awaited | —     | —   |
+| MGT501       | Human Resource Management     | 🔁 Can Improve   | D     | 55.50 |
 
 ---
 

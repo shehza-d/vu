@@ -1,11 +1,22 @@
 # 5th Semester (Spring 2026)
 
+## Results
+
+| Subject                                    | Grade | %     | GP   | Status                           |
+| ------------------------------------------ | ----- | ----- | ---- | -------------------------------- |
+| CS504 – Software Engineering - I           | B     | 71.84 | 3.07 | ✅ Good                          |
+| MGT501 – Human Resource Management         | D     | 55.50 | 1.50 | ⚠️ Passed (Improvement possible) |
+| CS301 – Data Structures                    | B+    | 78.03 | 3.53 | ✅ Very Good                     |
+| CS301P – Data Structures (Practical)       | B-    | 69.23 | 2.80 | ✅ Good                          |
+| CS401 – Computer Architecture and Assembly | D     | 59.90 | 1.90 | ⚠️ Passed (Improvement possible) |
+| CS401P – Computer Architecture (Practical) | B-    | 68.08 | 2.67 | ✅ Good                          |
+
 ## CS301 - Data Structures
 
 - [CS50](https://youtu.be/0euvEdPwQnQ?si=akSc7mF4sLDHgBrO)
 - [recluze](https://youtube.com/playlist?list=PLnd7R4Mcw3rK0bGYlR32Y084AKimVepDk&si=92mJkeVUvc6JxeML)
 - [VU](https://youtube.com/playlist?list=PL9382BBC24F8460EE&si=R4rLH9Bb-5EV96F1)
-    - [Code Repo](https://github.com/rayyan-bin-noman/object-oriented/tree/main/CS301_Data%20Structures)
+  - [Code Repo](https://github.com/rayyan-bin-noman/object-oriented/tree/main/CS301_Data%20Structures)
 - [striver](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=2vyDDAPpASz_x5tz)
 - [chai aur code](https://youtube.com/playlist?list=PLu71SKxNbfoAMcPw8uJXxjeLwYQV8MkpQ&si=qAsbuv3aYpLTIpMt)
 
@@ -13,14 +24,13 @@
 
 - [VU](https://youtube.com/playlist?list=PLKyB9RYzaFRh9pYhDsTGXnDqRx0YZQFbn&si=du1BXyuBa-s1XS7-)
 - [recluze](https://youtube.com/playlist?list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O&si=cKn-4d9-Cl4xPnh8)
-    - [Code Repo](https://github.com/recluze/assembly-lang-course)
-    - [syscall table](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+  - [Code Repo](https://github.com/recluze/assembly-lang-course)
+  - [syscall table](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 
 ## CS504 – Software Engineering
 
-
 - [VU](https://youtube.com/playlist?list=PL6884F109FAD10203&si=yHksGoFCCpNXzryE)
-    - [KST](https://youtube.com/playlist?list=PL1EXAGJzUWByPWei7Z0cPxrwsCYlLGYNz&si=XkMqB8EqqkJOHmiZ) (Mujhe ye KST samaj nhi aaya)
+  - [KST](https://youtube.com/playlist?list=PL1EXAGJzUWByPWei7Z0cPxrwsCYlLGYNz&si=XkMqB8EqqkJOHmiZ) (Mujhe ye KST samaj nhi aaya)
 
 ## MGT501 – HR Management
 
